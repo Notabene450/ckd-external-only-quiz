@@ -1,2 +1,5 @@
-# ckd-external-only-quiz
-Chronic Kidney Disease · External Only · Quiz
+# Chronic Kidney Disease · External Only · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
